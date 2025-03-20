@@ -1,5 +1,31 @@
 # Git
 
+## Table of Contents
+
+- [Git](#git)
+- [Introduction](#introduction)
+- [Git Basics](#git-basics)
+  - [What is Git?](#what-is-git)
+  - [Installation](#installation)
+  - [Essential Git Commands](#essential-git-commands)
+  - [Git Workflow Diagram](#git-workflow-diagram)
+  - [Typical Git Workflow](#typical-git-workflow)
+- [GitHub](#github)
+  - [What is GitHub?](#what-is-github)
+  - [Key GitHub Concepts](#key-github-concepts)
+  - [Setting Up a GitHub Repository](#setting-up-a-github-repository)
+  - [Working with Branches](#working-with-branches)
+- [Git Bash](#git-bash)
+  - [Common Bash Commands](#common-bash-commands)
+  - [Useful Shortcuts](#useful-shortcuts)
+- [GitHub CLI (`gh`)](#github-cli-gh)
+  - [Installation](#installation-1)
+  - [Common GitHub CLI Commands](#common-github-cli-commands)
+- [Workflow: Creating a Repo and Uploading Local Files from Git Bash Using GitHub CLI](#workflow-creating-a-repo-and-uploading-local-files-from-git-bash-using-github-cli)
+  - [Step-by-Step Guide](#step-by-step-guide)
+- [7. Best Practices for Data Analysts](#7-best-practices-for-data-analysts)
+
+
 ## **Introduction**
 
 Git and GitHub are essential tools for version control, collaboration, and tracking changes in code. As a data analyst, you’ll use them to manage scripts, notebooks, and datasets efficiently.
