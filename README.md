@@ -1,4 +1,4 @@
-# Git
+# Learning Git
 
 ## Table of Contents
 
