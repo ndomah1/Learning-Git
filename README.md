@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Git](#git)
 - [Introduction](#introduction)
 - [Git Basics](#git-basics)
   - [What is Git?](#what-is-git)
